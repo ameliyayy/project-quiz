@@ -12,19 +12,19 @@ let availableQuesions = [];
 let questions = [
     {
         question: "Siapakah Bapak Proklamator Indonesia?",
-        choice1: "Ir. Soekarno",
+        choice1: "Dr. Soepomo",
         choice2: "Muh. Yamin",
-        choice3: "Dr. Soepomo",
+        choice3: "Ir. Soekarno",
         choice4: "Soeharto",
-        answer: 1,
+        answer: 3,
     },
     {
         question: "Siapakah Bapak Koperasi Indonesia?",
-        choice1: "Pangeran Diponegoro",
+        choice1: "Soeharto",
         choice2: "Radjiman Widyodiningrat",
-        choice3: "Soeharto",
-        choice4: "Muh. Yamin",
-        answer: 3,
+        choice3: "Muh. Yamin",
+        choice4: "Pangeran Diponegoro",
+        answer: 1,
     },
     {
         question: "Siapakah yang disebut sebagai Bapak Pendidikan Indonesia?",
