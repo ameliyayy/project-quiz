@@ -20,10 +20,10 @@ let questions = [
     },
     {
         question: "Siapakah Bapak Koperasi Indonesia?",
-        choice1: "Soeharto",
+        choice1: "Muh. Yamin",
         choice2: "Radjiman Widyodiningrat",
-        choice3: "Muh. Yamin",
-        choice4: "Pangeran Diponegoro",
+        choice3: "Pangeran Diponegoro",
+        choice4: "Soeharto",
         answer: 1,
     },
     {
