@@ -24,7 +24,7 @@ let questions = [
         choice2: "Radjiman Widyodiningrat",
         choice3: "Pangeran Diponegoro",
         choice4: "Soeharto",
-        answer: 1,
+        answer: 4,
     },
     {
         question: "Siapakah yang disebut sebagai Bapak Pendidikan Indonesia?",
