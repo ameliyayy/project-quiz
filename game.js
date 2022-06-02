@@ -43,7 +43,7 @@ let questions = [
         answer: 4,
     },
     {
-        question: "Kapan hari lahir Pancasila diperingati?",
+        question: "Kapan hari lahir Pancasila?",
         choice1: "21 Mei",
         choice2: "01 Juni",
         choice3: "11 Maret",
