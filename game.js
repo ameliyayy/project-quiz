@@ -11,7 +11,7 @@ let availableQuesions = [];
 
 let questions = [
     {
-        question: "Siapakah Bapak Proklamator Indonesia?",
+        question: "Siapakah 'Bapak Proklamator Indonesia'?",
         choice1: "Dr. Soepomo",
         choice2: "Muh. Yamin",
         choice3: "Ir. Soekarno",
@@ -19,7 +19,7 @@ let questions = [
         answer: 3,
     },
     {
-        question: "Siapakah Bapak Koperasi Indonesia?",
+        question: "Siapakah 'Bapak Koperasi Indonesia'?",
         choice1: "Muh. Yamin",
         choice2: "Radjiman Widyodiningrat",
         choice3: "Pangeran Diponegoro",
@@ -27,7 +27,7 @@ let questions = [
         answer: 4,
     },
     {
-        question: "Siapakah yang disebut sebagai Bapak Pendidikan Indonesia?",
+        question: "Siapakah yang disebut sebagai 'Bapak Pendidikan Indonesia'?",
         choice1: "Ki Hadjar Dewantara",
         choice2: "Muh. Yamin",
         choice3: "Bj. Habibie",
@@ -75,7 +75,7 @@ let questions = [
         answer: 2,
     },
     {
-        question: "Pahlawan yang dijuluki Si Jalak Harupat adalah?",
+        question: "Pahlawan yang dijuluki 'Si Jalak Harupat' adalah?",
         choice1: "Djuanda Kartawijaya",
         choice2: "Sultan Hasanuddin",
         choice3: "Otto Iskandar Dinata",
@@ -83,7 +83,7 @@ let questions = [
         answer: 3,
     },
     {
-        question: "Pahlawan yang dijuluki Ayam Jantan Dari Timur adalah?",
+        question: "Pahlawan yang dijuluki 'Ayam Jantan Dari Timur' adalah?",
         choice1: "Djuanda Kartawijaya",
         choice2: "Sultan Hasanuddin",
         choice3: "Otto Iskandar Dinata",
