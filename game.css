@@ -8,7 +8,7 @@
   border-radius: 5px;
 }
 
- .card {
+/*  .card {
   width: 50px;
   height: auto;
   grid-column: span 8;
@@ -17,7 +17,7 @@
   gap: 20px;
   position: relative;
   color: white;
-} 
+}  */
 
 .choice-container:hover {
   cursor: pointer;
@@ -30,6 +30,7 @@
   padding: 1.5rem 2.5rem;
   background-color: #56a5eb;
   color: white;
+  border-radius: 5px;
 }
 
 .choice-text {
@@ -66,6 +67,7 @@
   height: 4rem;
   border: 0.3rem solid #56a5eb;
   margin-top: 1.5rem;
+  border-radius: 5px;
 }
 
 #progressBarFull {
