@@ -8,17 +8,6 @@
   border-radius: 5px;
 }
 
-/*  .card {
-  width: 50px;
-  height: auto;
-  grid-column: span 8;
-  margin: 10px 0;
-  border-radius: 15px;
-  gap: 20px;
-  position: relative;
-  color: white;
-}  */
-
 .choice-container:hover {
   cursor: pointer;
   box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
